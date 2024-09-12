@@ -1,8 +1,5 @@
 # Portfolio with html ,css & Js
 
-## Website Live Preview
-[`click`](https://devman.imzuyel.com/)
-
 
 # Light Version
 ![Personal-Portfolio-Website](https://user-images.githubusercontent.com/43112820/165054682-967f88d8-bb89-40a3-8c54-49c772855cff.png)
